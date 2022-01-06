@@ -10,3 +10,7 @@
 - [ ] Revertendo Modificações.
 - [ ] Trabalhando co Diferentes Branches.
 - [ ] Diferença Entre Arquivos.
+
+## INFORMAÇÕES
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.git-full-stack "Total de Visitas")
